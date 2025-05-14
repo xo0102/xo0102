@@ -2,7 +2,7 @@
 
 <br>
 <!-- 백준 티어표 (v2.0) -->
-<div align="center">
+<div align="left">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xo0102" alt="백준티어" />
 </div>
 <br>
