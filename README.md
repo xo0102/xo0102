@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&width=435&lines=Hi+I'm+Taehun+Kim+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 
-
+<br>
+<!-- 백준 티어표 (v2.0) -->
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xo0102" alt="백준티어" />
+</div>
+<br>
 <!--
 **xo0102/xo0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
