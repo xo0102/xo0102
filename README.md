@@ -153,12 +153,15 @@ Spring Boot 기반의 백엔드 개발을 중심으로 공부하고 있으며,
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Activity & Focus
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xo0102&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xo0102&layout=compact&theme=tokyonight" height="170"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-xo0102-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Studying-Information%20Security-6495ED?style=for-the-badge"/>
 </p>
+
+<br>
 
 <br>
 
